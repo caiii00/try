@@ -1,0 +1,25 @@
+QUIZ AL CONTRARIO V4 — QA REPORT
+==========================================
+Record totali JSON: 2520
+Righe JSONL: 2520
+Righe CSV dati (header escluso): 2520
+ID unici: 2520
+Domande testualmente uniche: 2520
+FactKey unici per categoria: OK (210/210 ciascuna)
+Option A != Option B: OK
+Bilanciamento risposta reale: 105 A / 105 B per categoria
+
+Cultura generale: 210
+Storia: 210
+Geografia: 210
+Scienza: 210
+Sport: 210
+Cinema: 210
+TV: 210
+Musica: 210
+Animali: 210
+Lingua italiana: 210
+Curiosità: 210
+Attualità leggera: 210
+
+Soggetti con stesso nome grezzo in categorie diverse: 0
